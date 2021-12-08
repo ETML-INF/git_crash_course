@@ -1,5 +1,5 @@
 # GitHub à l'ETML
-><div align="justify">Voici le document crée à l'ETML. Ce document vous expliquera les thermes liés à Git et GitHub. <br> Il vous servira de tutoriel et de document théorique sur les différents thermes et commandes Git.</div>
+><div align="justify">Voici le document crée à l'ETML. Ce document vous expliquera les termes liés à Git et GitHub. <br> Il vous servira de tutoriel et de document théorique sur les différents termes et commandes Git.</div>
 
 # Table de matières
 - [Pull Request | Fork](#pull-request--fork)
